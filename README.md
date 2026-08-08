@@ -1,2 +1,1 @@
-# portfolio
-Personal portfolio website showcasing my skills, projects, experience, and contact information.
+https://lovable.dev/preview/ukTry32zn0VEHu2B0vhtaveKuqmNFGgi
