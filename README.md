@@ -81,54 +81,58 @@ coffee     : ████████████ 100%
 
 <!-- Top Languages -->
 <p align="center">
-  <img width="43%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bhanu9951&theme=github_dark" />
-  <img width="43%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bhanu99517&theme=github_dark&utcOffset=8" />
+  <img width="43%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sravanikallemolam568-prog&theme=github_dark" />
+  <img width="43%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sravanikallemolam568-prog&theme=github_dark&utcOffset=8" />
 </p>
 
 ---
 
 <h1 align="center">🚀 Skills</h1>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3 align="center">🧩 Languages</h3>
+
+<h3 align="center">💻 Programming Languages</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+<h3 align="center">🤖 AI & AI Tools</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Tools-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Assisted%20Development-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Application%20Development-00A86B?style=for-the-badge&logoColor=white" />
+</p>
+
+<h3 align="center">🌐 Web Development</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
-<h3 align="center">🔧 Frameworks</h3>
+<h3 align="center">🔥 Backend & Database</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vitest-729B1B?style=for-the-badge&logo=vitest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cloud%20Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
-<h3 align="center">🏗 Builds</h3>
+<h3 align="center">🛠️ Development Tools</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turbo&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-<h3 align="center">🚀 Deployments</h3>
+<h3 align="center">🎨 Other Skills</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
-
-<h3 align="center">🛠 Services</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-</p>
-
-<h3 align="center">🧰 Tools</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" />
-  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chromatic-FC521F?style=for-the-badge&logo=chromatic&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI%2FUX%20Basics-FF61F6?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-4285F4?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Leadership-00A86B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Project%20Development-6C63FF?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
@@ -136,9 +140,9 @@ coffee     : ████████████ 100%
 ### 🌐 Connect With Me
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-📧 **Email:** bhanu99517@gmail.com  
-🌍 **Portfolio:** [bhanutechlab](https://bhanutechlab.vercel.app/)  
-💼 **LinkedIn:** [bhanu99517](https://www.linkedin.com/in/bhanu99517/) 
+📧 **Email:** kallemolamsravani321@gmail.com  
+🌍 **Portfolio:** [sravanikallemolam](https://sravanikallemolam568-prog.vercel.app/)  
+💼 **LinkedIn:** [kallemolamsravani321](https://www.linkedin.com/in/kallemolamsravani321/) 
 
 ---
 
