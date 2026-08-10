@@ -1,3 +1,4 @@
+https://lovable.dev/preview/ukTry32zn0VEHu2B0vhtaveKuqmNFGgi
 
 import { createFileRoute } from "@tanstack/react-router";
 import { motion } from "framer-motion";
